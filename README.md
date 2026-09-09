@@ -3,7 +3,8 @@
 # ai bepul kurslar 
 ## ai nima uchun kerak
 ** i love football so much **
-* nima gap *
+
+* nima gap
 * 1-o'rin uchun kitob
 * 2-o'rin uchun playstation 5
 * 3-o'rin uchun moshina
