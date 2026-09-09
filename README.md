@@ -8,4 +8,4 @@
 * 1-o'rin uchun kitob
 * 2-o'rin uchun playstation 5
 * 3-o'rin uchun moshina
-  
+  [Ai bahsi tugadi]
